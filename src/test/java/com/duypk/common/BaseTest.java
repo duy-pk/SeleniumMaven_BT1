@@ -11,7 +11,7 @@ import java.time.Duration;
 public class BaseTest {
 
     public static WebDriver driver;
-    public static String categoryName = "Banh Trung Thu";
+    public static String categoryName = "Banh Trung Thu 2023";
 
     //Khoi tao browser
     public static void createBrowser(String browser){
