@@ -3,6 +3,7 @@
 target/
 .idea/
 out/
+kop/
 
 # Log file
 *.log
