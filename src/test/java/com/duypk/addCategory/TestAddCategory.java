@@ -68,7 +68,6 @@ public class TestAddCategory extends BaseTest {
         else {
             System.out.println("Add Category failed");
         }
-        sleep(1);
         closeBroser();
     }
 }
